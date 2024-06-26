@@ -46,7 +46,7 @@ Este é um sistema de biblioteca desenvolvido em Java que permite gerenciar livr
 ### Instruções de Execução
 1. Clone o repositório para sua máquina local:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/Lenarte/projeto-final-java.git>
     ```
 
 2. Navegue até o diretório do projeto:
